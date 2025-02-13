@@ -1,0 +1,4 @@
+shift_id,required_staff,shift_length
+Day,"{'RN': 1, 'LPN': 1, 'CNA': 3}",8
+Evening,"{'RN': 1, 'LPN': 2, 'CNA': 0}",8
+Night,"{'RN': 1, 'LPN': 1, 'CNA': 1}",8

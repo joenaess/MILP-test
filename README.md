@@ -21,7 +21,5 @@ This project is a Streamlit application that generates optimal staff schedules f
 Clone this repository (if you haven't already) and navigate to the project directory in your terminal:
 
 ```bash
-git clone <repository_url>  # Replace with the actual URL if you have it on a git repo
-cd <repository_directory>
 docker build -t nursing-scheduler .
 docker run -p 8501:8501 nursing-scheduler
